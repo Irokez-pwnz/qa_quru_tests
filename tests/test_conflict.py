@@ -1,1 +1,2 @@
-print("Hello " + str("new_text"))
+
+print("Hello_teacher" + str("new_text"))
