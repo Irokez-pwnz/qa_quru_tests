@@ -1,1 +1,1 @@
-print("Hello_world " + str("same_text"))
+print("Hello " + str("new_text"))
