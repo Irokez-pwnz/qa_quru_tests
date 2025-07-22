@@ -1,2 +1,3 @@
 
-print("Hello_teacher" + str("text_1"))
+print("Hello" + str("same_text"))
+
